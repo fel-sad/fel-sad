@@ -1,6 +1,6 @@
 # Hi, I'm Felix ✌️
 
-by day I'm learning how to code, by night I'm a just a queer nerd on the lookout for the next tattoo.✨
+by day I'm learning how to code, by night I'm a queer nerd on the lookout for the next tattoo.✨
 
 - 🌱 Currently Learning html, css, java & react
 - 📰 Background in communication and public relations
