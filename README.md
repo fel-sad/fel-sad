@@ -6,5 +6,3 @@ by day I'm learning how to code, by night I'm a queer nerd on the lookout for th
 - 📰 background in communication 
 - ⚓️ based in Hamburg, GER
 - 🖤 loves minimalism and all black everything
-
-[`📸 sporadic photo updates via Insta`](https://www.instagram.com/rythinks/)
