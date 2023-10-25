@@ -1,8 +1,8 @@
 # Hi, I'm Felix ✌️
 
-by day I'm learning how to code, by night I'm a queer nerd on the lookout for the next tattoo.✨
+I'm a frontend developer and communication professional.
 
-- 🌱 currently learning html, css, java & react
-- 📰 background in communication 
-- ⚓️ based in Hamburg, GER
+- 🌱 html, css, javascript, react, next.js
+- 🚀 project management
+- ⚔️ pen and paper nerd
 - 🖤 loves minimalism and all black everything
