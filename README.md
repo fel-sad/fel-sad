@@ -1,8 +1,15 @@
 # Hi, I'm Felix ✌️
 
-I'm a frontend developer and communication professional.
+I'm a frontend developer and comms professional.
 
-- 🌱 html, css, javascript, react, next.js
-- 🚀 project management
-- ⚔️ pen and paper nerd
-- 🖤 loves minimalism and all black everything
+### 🛠️ Technologies
+
+- javascript / typescript
+- react / next
+- html & css
+
+### 🌱 About me
+
+- he / him
+- pen and paper nerd
+- into minimalism
